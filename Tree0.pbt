@@ -20,6 +20,8 @@ Objects {
   ChildIds: 10005074784157121906
   ChildIds: 14982843161775482339
   ChildIds: 4956776267577402795
+  ChildIds: 5752018554814543218
+  ChildIds: 3504807485947835150
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -29,6 +31,86 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 3504807485947835150
+  Name: "Bench Full"
+  Transform {
+    Location {
+      X: 2031.00952
+      Y: 950.395
+      Z: 50.0004883
+    }
+    Rotation {
+      Yaw: -71.1447754
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2476217735253864917
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
+  }
+}
+Objects {
+  Id: 5752018554814543218
+  Name: "Bench Full"
+  Transform {
+    Location {
+      X: 2061.95386
+      Y: -699.006348
+      Z: 49.9992676
+    }
+    Rotation {
+      Yaw: 66.5305405
+    }
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  CoreMesh {
+    MeshAsset {
+      Id: 2476217735253864917
+    }
+    Teams {
+      IsTeamCollisionEnabled: true
+      IsEnemyCollisionEnabled: true
+    }
+    EnableCameraCollision: true
+    StaticMesh {
+      Physics {
+      }
+    }
   }
 }
 Objects {

@@ -97,3 +97,12 @@ Assets {
     AssetId: "FrameTri_001"
   }
 }
+Assets {
+  Id: 2476217735253864917
+  Name: "Bench Full"
+  PlatformAssetType: 1
+  PrimaryAsset {
+    AssetType: "StaticMeshAssetRef"
+    AssetId: "sm_bench_001"
+  }
+}
