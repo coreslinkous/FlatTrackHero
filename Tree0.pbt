@@ -18,11 +18,9 @@ Objects {
   ChildIds: 16813558807825262224
   ChildIds: 14713340454944924967
   ChildIds: 10005074784157121906
-  ChildIds: 14982843161775482339
   ChildIds: 4956776267577402795
-  ChildIds: 5752018554814543218
-  ChildIds: 3504807485947835150
-  ChildIds: 2887607128929120922
+  ChildIds: 8825026647662148928
+  ChildIds: 17413070407762358863
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -35,9 +33,13 @@ Objects {
   }
 }
 Objects {
-  Id: 2887607128929120922
-  Name: "Scoreboard"
+  Id: 17413070407762358863
+  Name: "Track"
   Transform {
+    Location {
+    }
+    Rotation {
+    }
     Scale {
       X: 1
       Y: 1
@@ -51,40 +53,18 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  TemplateInstance {
-    ParameterOverrideMap {
-      key: 3772104818986187317
-      value {
-        Overrides {
-          Name: "Name"
-          String: "Scoreboard"
-        }
-        Overrides {
-          Name: "Position"
-          Vector {
-            X: -916.49176
-            Y: 1403.89502
-            Z: 50.0000229
-          }
-        }
-      }
-    }
-    TemplateAsset {
-      Id: 1653489474396871101
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "Track"
   }
 }
 Objects {
-  Id: 3504807485947835150
-  Name: "Bench Full"
+  Id: 8825026647662148928
+  Name: "ScoreKeeping"
   Transform {
     Location {
-      X: 2031.00952
-      Y: 950.395
-      Z: 50.0004883
     }
     Rotation {
-      Yaw: -71.1447754
     }
     Scale {
       X: 1
@@ -99,59 +79,9 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  CoreMesh {
-    MeshAsset {
-      Id: 2476217735253864917
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 5752018554814543218
-  Name: "Bench Full"
-  Transform {
-    Location {
-      X: 2061.95386
-      Y: -699.006348
-      Z: 49.9992676
-    }
-    Rotation {
-      Yaw: 66.5305405
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 2476217735253864917
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
+  Folder {
+    IsFilePartition: true
+    FilePartitionName: "ScoreKeeping"
   }
 }
 Objects {
@@ -856,89 +786,6 @@ Objects {
     SubobjectId: 8527773436877303370
     InstanceId: 13664199337657546187
     TemplateId: 16112931953003637658
-  }
-}
-Objects {
-  Id: 14982843161775482339
-  Name: "Default Floor"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 50
-      Y: 50
-      Z: 1
-    }
-  }
-  ParentId: 4781671109827199097
-  ChildIds: 8813862496783949262
-  UnregisteredParameters {
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  CoreMesh {
-    MeshAsset {
-      Id: 12095835209017042614
-    }
-    Teams {
-      IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
-    }
-    EnableCameraCollision: true
-    StaticMesh {
-      Physics {
-      }
-    }
-  }
-}
-Objects {
-  Id: 8813862496783949262
-  Name: "Decal Numbers and Symbols 01"
-  Transform {
-    Location {
-      X: -0.322949201
-      Y: -2.86658573
-      Z: 49.9997559
-    }
-    Rotation {
-      Yaw: 92.1708069
-    }
-    Scale {
-      X: 0.243592829
-      Y: 0.200335085
-      Z: 1
-    }
-  }
-  ParentId: 14982843161775482339
-  UnregisteredParameters {
-    Overrides {
-      Name: "bp:color"
-      Color {
-        R: 1
-        G: 1
-        B: 1
-        A: 0.206000015
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Blueprint {
-    BlueprintAsset {
-      Id: 17988075036120408695
-    }
-    DecalBP {
-    }
   }
 }
 Objects {
