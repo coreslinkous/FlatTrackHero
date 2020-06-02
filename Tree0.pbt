@@ -22,6 +22,7 @@ Objects {
   ChildIds: 4956776267577402795
   ChildIds: 5752018554814543218
   ChildIds: 3504807485947835150
+  ChildIds: 2887607128929120922
   UnregisteredParameters {
   }
   Collidable_v2 {
@@ -31,6 +32,46 @@ Objects {
     Value: "mc:evisibilitysetting:forceon"
   }
   Folder {
+  }
+}
+Objects {
+  Id: 2887607128929120922
+  Name: "Scoreboard"
+  Transform {
+    Scale {
+      X: 1
+      Y: 1
+      Z: 1
+    }
+  }
+  ParentId: 4781671109827199097
+  Collidable_v2 {
+    Value: "mc:ecollisionsetting:inheritfromparent"
+  }
+  Visible_v2 {
+    Value: "mc:evisibilitysetting:inheritfromparent"
+  }
+  TemplateInstance {
+    ParameterOverrideMap {
+      key: 3772104818986187317
+      value {
+        Overrides {
+          Name: "Name"
+          String: "Scoreboard"
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -916.49176
+            Y: 1403.89502
+            Z: 50.0000229
+          }
+        }
+      }
+    }
+    TemplateAsset {
+      Id: 1653489474396871101
+    }
   }
 }
 Objects {
