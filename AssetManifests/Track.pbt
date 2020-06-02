@@ -17,6 +17,15 @@ Assets {
   }
 }
 Assets {
+  Id: 8539981025625262831
+  Name: "Decal Painted Lines 01"
+  PlatformAssetType: 14
+  PrimaryAsset {
+    AssetType: "DecalBlueprintAssetRef"
+    AssetId: "bp_decal_lines_001"
+  }
+}
+Assets {
   Id: 2476217735253864917
   Name: "Bench Full"
   PlatformAssetType: 1

@@ -1,5 +1,15 @@
 ObjectSettings {
   ObjectStates {
+    key: 3131496659259336694
+    value {
+    }
+  }
+  ObjectStates {
+    key: 3212067723755785592
+    value {
+    }
+  }
+  ObjectStates {
     key: 5110890422770019671
     value {
     }
@@ -38,7 +48,6 @@ ObjectSettings {
   ObjectStates {
     key: 14982843161775482339
     value {
-      IsLocked: true
     }
   }
   ObjectStates {

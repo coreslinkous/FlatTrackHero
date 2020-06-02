@@ -513,7 +513,6 @@ Objects {
     }
   }
   ParentId: 2712114579614184818
-  ChildIds: 16936648495615752158
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
   }
@@ -557,47 +556,6 @@ Objects {
   InstanceHistory {
     SelfId: 17730451550114590544
     SubobjectId: 4268148511196468150
-    InstanceId: 13664199337657546187
-    TemplateId: 16112931953003637658
-  }
-}
-Objects {
-  Id: 16936648495615752158
-  Name: "StopWatchController"
-  Transform {
-    Location {
-    }
-    Rotation {
-    }
-    Scale {
-      X: 1
-      Y: 1
-      Z: 1
-    }
-  }
-  ParentId: 17730451550114590544
-  UnregisteredParameters {
-    Overrides {
-      Name: "cs:WatchBeep"
-      AssetReference {
-        Id: 5021318961692016445
-      }
-    }
-  }
-  Collidable_v2 {
-    Value: "mc:ecollisionsetting:inheritfromparent"
-  }
-  Visible_v2 {
-    Value: "mc:evisibilitysetting:inheritfromparent"
-  }
-  Script {
-    ScriptAsset {
-      Id: 16190651872144112123
-    }
-  }
-  InstanceHistory {
-    SelfId: 16936648495615752158
-    SubobjectId: 2756103849196669752
     InstanceId: 13664199337657546187
     TemplateId: 16112931953003637658
   }
