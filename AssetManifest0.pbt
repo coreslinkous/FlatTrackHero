@@ -1,13 +1,4 @@
 Assets {
-  Id: 17680730203603616518
-  Name: "Center Hex 001"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "CenterHex_001"
-  }
-}
-Assets {
   Id: 16910278292812118833
   Name: "Sun Light"
   PlatformAssetType: 6
@@ -17,21 +8,48 @@ Assets {
   }
 }
 Assets {
-  Id: 16593549818180283529
-  Name: "UI Game Tone Timer Beep 01 SFX"
-  PlatformAssetType: 7
-  PrimaryAsset {
-    AssetType: "AudioAssetRef"
-    AssetId: "sfx_game_tone_timer_beep_01a_Cue_ref"
-  }
-}
-Assets {
-  Id: 16222835306962155222
-  Name: "Center Hex 001 Outline"
+  Id: 16685773174898462010
+  Name: "Icon Time"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
-    AssetId: "CenterHex_001Outline"
+    AssetId: "Icon_Time"
+  }
+}
+Assets {
+  Id: 15509415883895080030
+  Name: "Human Gal"
+  PlatformAssetType: 17
+  PrimaryAsset {
+    AssetType: "AnimatedMeshAssetRef"
+    AssetId: "npc_human_gal_basic_002_ref"
+  }
+}
+Assets {
+  Id: 14060330023043759337
+  Name: "BG Flat 001"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "BackgroundNoOutline_020"
+  }
+}
+Assets {
+  Id: 13717818087985324083
+  Name: "BG Gradient 002"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "BackgroundFlat_019"
+  }
+}
+Assets {
+  Id: 12610737471169181737
+  Name: "Frame Beveled 002"
+  PlatformAssetType: 9
+  PrimaryAsset {
+    AssetType: "PlatformBrushAssetRef"
+    AssetId: "FrameSolid8px__019"
   }
 }
 Assets {
@@ -44,21 +62,12 @@ Assets {
   }
 }
 Assets {
-  Id: 11179380523723119255
-  Name: "Frame Hex 013"
+  Id: 9111527178275780622
+  Name: "Frame Outlined 011"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
-    AssetId: "FrameHex_013"
-  }
-}
-Assets {
-  Id: 9231609427424771933
-  Name: "Icon Arrow Up"
-  PlatformAssetType: 9
-  PrimaryAsset {
-    AssetType: "PlatformBrushAssetRef"
-    AssetId: "Icon_ArrowUp"
+    AssetId: "FrameSolid4px_028"
   }
 }
 Assets {
@@ -71,11 +80,11 @@ Assets {
   }
 }
 Assets {
-  Id: 5466196154375997562
-  Name: "Frame Tri 001"
+  Id: 7876822903264054246
+  Name: "BG Flat 011"
   PlatformAssetType: 9
   PrimaryAsset {
     AssetType: "PlatformBrushAssetRef"
-    AssetId: "FrameTri_001"
+    AssetId: "BackgroundNoOutline_28"
   }
 }

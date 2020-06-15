@@ -44,5 +44,5 @@ Assets {
     OwnerAccountId: "3819113b7af34fb786a56960fc08136a"
     OwnerName: "coreslinkous"
   }
-  SerializationVersion: 59
+  SerializationVersion: 60
 }

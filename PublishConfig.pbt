@@ -1,0 +1,11 @@
+GameId: "3ba3c2a4574848abb01bd9a592818c13"
+ClientVersion: "1.0.137-prod-s"
+Name: "Roller Derby Practice (WIP)"
+Description: "It\'s a roller derby practice space! Grab some skates, and jump on the track.\r\n\r\nThis project is designed to test skating for players. There will be more measured obstacles in the future, but right now it\'s just a free-wheelin\' space!"
+MaxPlayers: 8
+Tags: "Sports"
+Tags: "Relaxing"
+Tags: "Experimental"
+ScreenshotPaths: "C:\\Users\\Mothrah\\Documents\\My Games\\CORE\\Saved\\Maps\\FlatTrackHero\\Screenshots\\Peraltalike.png"
+ScreenshotPaths: "C:\\Users\\Mothrah\\Documents\\My Games\\CORE\\Saved\\Maps\\FlatTrackHero\\Screenshots\\Skates.png"
+ReleaseNotes: "- Changed track sound\r\n- Improved bleacher collision"
