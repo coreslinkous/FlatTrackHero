@@ -28,6 +28,8 @@ function makeSkatey(player)
     player.maxWalkSpeed = propMaxSpeed
     player.canMount = false;
     player.jumpVelocity = 500;
+    player.team = 2
+    print(player.team)
 end
 
 propTrigger.interactedEvent:Connect(attachSkates)
