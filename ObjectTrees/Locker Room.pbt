@@ -147,7 +147,7 @@ Objects {
           Name: "Position"
           Vector {
             X: 1369.58838
-            Y: 84.6755371
+            Y: -245.709229
             Z: 61.5835495
           }
         }
@@ -163,6 +163,17 @@ Objects {
             X: 1
             Y: 1
             Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 16500515415627185938
+      value {
+        Overrides {
+          Name: "Position"
+          Vector {
+            Y: -85.3303223
           }
         }
       }
