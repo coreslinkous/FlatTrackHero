@@ -31,7 +31,7 @@ Assets {
         Name: "Practice Cone"
         Transform {
           Location {
-            Z: 1.52587891e-05
+            X: -55.1047668
           }
           Rotation {
           }
@@ -91,6 +91,8 @@ Assets {
           StaticMesh {
             Physics {
               IsEnabled: true
+              LinearDamping: 0.5
+              AngularDamping: 0.25
             }
           }
         }

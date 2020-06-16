@@ -125,6 +125,15 @@ Assets {
   }
 }
 Assets {
+  Id: 6703737858754271755
+  Name: "Brick Red Old 02"
+  PlatformAssetType: 2
+  PrimaryAsset {
+    AssetType: "MaterialAssetRef"
+    AssetId: "mi_brick_red_old_002_uv"
+  }
+}
+Assets {
   Id: 4798953546912878943
   Name: "Urban Pipe Clamp 03"
   PlatformAssetType: 1

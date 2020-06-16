@@ -7,7 +7,7 @@ Objects {
     Location {
       X: -3764.73291
       Y: 186.373901
-      Z: 84.8117676
+      Z: 22.5163345
     }
     Rotation {
     }
@@ -38,10 +38,10 @@ Objects {
     Location {
       X: 0.224365234
       Y: 2484.59473
-      Z: 1538.4165
+      Z: 1538.40222
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 8.4538908
@@ -60,7 +60,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner2:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
   }
@@ -144,7 +144,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -182,6 +182,7 @@ Objects {
     Location {
       X: -0.000244140625
       Y: -1620.15552
+      Z: -0.0142822266
     }
     Rotation {
       Yaw: 89.9999542
@@ -197,7 +198,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -221,6 +222,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -250,7 +252,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -303,7 +305,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -327,6 +329,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -356,7 +359,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -380,6 +383,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -409,7 +413,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -433,6 +437,7 @@ Objects {
       IsTeamCollisionEnabled: true
       IsEnemyCollisionEnabled: true
     }
+    DisableReceiveDecals: true
     EnableCameraCollision: true
     StaticMesh {
       Physics {
@@ -462,7 +467,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -515,7 +520,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -568,7 +573,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -727,6 +732,16 @@ Objects {
       Name: "ma:Building_WallInner2:smart"
       Bool: false
     }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 1847237992666163999
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: false
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -837,6 +852,16 @@ Objects {
       Name: "ma:Building_WallInner2:smart"
       Bool: false
     }
+    Overrides {
+      Name: "ma:Building_WallInner:id"
+      AssetReference {
+        Id: 1847237992666163999
+      }
+    }
+    Overrides {
+      Name: "ma:Building_WallInner:smart"
+      Bool: false
+    }
   }
   Collidable_v2 {
     Value: "mc:ecollisionsetting:inheritfromparent"
@@ -881,7 +906,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -934,7 +959,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -987,7 +1012,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -1040,7 +1065,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -1093,7 +1118,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -1146,7 +1171,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -1199,7 +1224,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -1253,7 +1278,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -1307,7 +1332,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -1343,9 +1368,9 @@ Objects {
   Name: "Back Wall"
   Transform {
     Location {
-      X: 3292.60083
+      X: 3292.60107
       Y: 287.016602
-      Z: 61.3668213
+      Z: -21.2398605
     }
     Rotation {
     }
@@ -3304,7 +3329,7 @@ Objects {
       Z: 1513.02734
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 9.07365322
@@ -3317,7 +3342,7 @@ Objects {
     Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
@@ -3563,7 +3588,7 @@ Objects {
       Z: 23.2399902
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 5
@@ -3574,20 +3599,20 @@ Objects {
   ParentId: 9732017172066837065
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Building_WallInner2:id"
-      AssetReference {
-        Id: 14426502948448606784
-      }
-    }
-    Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
       Name: "ma:Building_WallInner2:smart"
       Bool: true
+    }
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 14426502948448606784
+      }
     }
   }
   Collidable_v2 {
@@ -3621,7 +3646,7 @@ Objects {
       Z: 23.2399902
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 5
@@ -3632,20 +3657,20 @@ Objects {
   ParentId: 9732017172066837065
   UnregisteredParameters {
     Overrides {
-      Name: "ma:Building_WallInner2:id"
-      AssetReference {
-        Id: 14426502948448606784
-      }
-    }
-    Overrides {
       Name: "ma:Building_WallInner:id"
       AssetReference {
-        Id: 14426502948448606784
+        Id: 6703737858754271755
       }
     }
     Overrides {
       Name: "ma:Building_WallInner2:smart"
       Bool: true
+    }
+    Overrides {
+      Name: "ma:Building_WallInner2:id"
+      AssetReference {
+        Id: 14426502948448606784
+      }
     }
   }
   Collidable_v2 {
@@ -3688,11 +3713,41 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 665138634252206888
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner2:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 838430241614449096
       value {
         Overrides {
           Name: "DisableReceiveDecals"
-          Bool: true
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 2867.27173
+            Y: 88.8933105
+            Z: 413.598907
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1500989755063954872
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner2:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
         }
       }
     }
@@ -3701,7 +3756,15 @@ Objects {
       value {
         Overrides {
           Name: "DisableReceiveDecals"
-          Bool: true
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -2156.97021
+            Y: 88.8933105
+            Z: 413.598907
+          }
         }
       }
     }
@@ -3710,7 +3773,15 @@ Objects {
       value {
         Overrides {
           Name: "DisableReceiveDecals"
-          Bool: true
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 1847.36206
+            Y: 88.8933105
+            Z: 413.598907
+          }
         }
       }
     }
@@ -3719,7 +3790,37 @@ Objects {
       value {
         Overrides {
           Name: "DisableReceiveDecals"
-          Bool: true
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -163.904037
+            Y: 88.8933105
+            Z: 413.598907
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4170537493550004651
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner2:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4502585361254804431
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner2:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
         }
       }
     }
@@ -3728,7 +3829,15 @@ Objects {
       value {
         Overrides {
           Name: "DisableReceiveDecals"
-          Bool: true
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -1146.68164
+            Y: 88.8933105
+            Z: 413.598907
+          }
         }
       }
     }
@@ -3737,7 +3846,15 @@ Objects {
       value {
         Overrides {
           Name: "DisableReceiveDecals"
-          Bool: true
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: 859.276367
+            Y: 88.8933105
+            Z: 413.598907
+          }
         }
       }
     }
@@ -3746,7 +3863,37 @@ Objects {
       value {
         Overrides {
           Name: "DisableReceiveDecals"
-          Bool: true
+          Bool: false
+        }
+        Overrides {
+          Name: "Position"
+          Vector {
+            X: -3186.41284
+            Y: 88.8933105
+            Z: 413.598907
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8701541286539493939
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner2:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9586855611929300434
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner2:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
         }
       }
     }
@@ -3762,7 +3909,7 @@ Objects {
           Vector {
             X: -368.151794
             Y: -4362.02441
-            Z: 23.2282104
+            Z: -59.3784714
           }
         }
         Overrides {
@@ -3776,6 +3923,17 @@ Objects {
             X: 1
             Y: 1
             Z: 1
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 13593137982001819549
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner2:id"
+          AssetReference {
+            Id: 6703737858754271755
           }
         }
       }
@@ -3804,20 +3962,46 @@ Objects {
   }
   TemplateInstance {
     ParameterOverrideMap {
+      key: 665138634252206888
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
       key: 838430241614449096
       value {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: -179.999954
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 3403.07324
-            Y: 79.3623047
+            X: 3357.92896
+            Y: 92.8366699
             Z: 413.598907
+          }
+        }
+        Overrides {
+          Name: "DisableReceiveDecals"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 1500989755063954872
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner:id"
+          AssetReference {
+            Id: 6703737858754271755
           }
         }
       }
@@ -3828,16 +4012,20 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: -179.999954
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -1621.16895
-            Y: 79.3623047
+            X: -1666.31323
+            Y: 92.8366699
             Z: 413.598907
           }
+        }
+        Overrides {
+          Name: "DisableReceiveDecals"
+          Bool: false
         }
       }
     }
@@ -3847,16 +4035,20 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: -179.999954
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 2383.16406
-            Y: 79.3623047
+            X: 2338.01978
+            Y: 92.8366699
             Z: 413.598907
           }
+        }
+        Overrides {
+          Name: "DisableReceiveDecals"
+          Bool: false
         }
       }
     }
@@ -3866,15 +4058,41 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: -179.999954
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 371.897217
-            Y: 79.3623047
-            Z: 413.598907
+            X: 370.394196
+            Y: 92.8366699
+            Z: 413.598877
+          }
+        }
+        Overrides {
+          Name: "DisableReceiveDecals"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4170537493550004651
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 4502585361254804431
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner:id"
+          AssetReference {
+            Id: 6703737858754271755
           }
         }
       }
@@ -3885,16 +4103,20 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: -179.999954
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -610.880371
-            Y: 79.3623047
+            X: -656.024658
+            Y: 92.8366699
             Z: 413.598907
           }
+        }
+        Overrides {
+          Name: "DisableReceiveDecals"
+          Bool: false
         }
       }
     }
@@ -3904,16 +4126,20 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: -179.999954
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: 1395.07764
-            Y: 79.3623047
+            X: 1349.93335
+            Y: 92.8366699
             Z: 413.598907
           }
+        }
+        Overrides {
+          Name: "DisableReceiveDecals"
+          Bool: false
         }
       }
     }
@@ -3923,15 +4149,41 @@ Objects {
         Overrides {
           Name: "Rotation"
           Rotator {
-            Yaw: -179.999985
+            Yaw: -179.999954
           }
         }
         Overrides {
           Name: "Position"
           Vector {
-            X: -2650.61133
-            Y: 79.3623047
+            X: -2695.75562
+            Y: 92.8366699
             Z: 413.598907
+          }
+        }
+        Overrides {
+          Name: "DisableReceiveDecals"
+          Bool: false
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 8701541286539493939
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
+        }
+      }
+    }
+    ParameterOverrideMap {
+      key: 9586855611929300434
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner:id"
+          AssetReference {
+            Id: 6703737858754271755
           }
         }
       }
@@ -3948,7 +4200,7 @@ Objects {
           Vector {
             X: -368.151794
             Y: 2837.97559
-            Z: 23.2282104
+            Z: -59.3784714
           }
         }
         Overrides {
@@ -3966,6 +4218,17 @@ Objects {
         }
       }
     }
+    ParameterOverrideMap {
+      key: 13593137982001819549
+      value {
+        Overrides {
+          Name: "ma:Building_WallInner:id"
+          AssetReference {
+            Id: 6703737858754271755
+          }
+        }
+      }
+    }
     TemplateAsset {
       Id: 16953767537324535778
     }
@@ -3978,7 +4241,7 @@ Objects {
     Location {
       X: 1148.4762
       Y: 1188.00061
-      Z: 814.363
+      Z: 752.067383
     }
     Rotation {
     }
@@ -4485,10 +4748,10 @@ Objects {
     Location {
       X: 2116.62793
       Y: 1750.02502
-      Z: 914.44458
+      Z: 914.430237
     }
     Rotation {
-      Yaw: -89.9999924
+      Yaw: -90
     }
     Scale {
       X: 9.00000668
@@ -4559,8 +4822,9 @@ Objects {
   Name: "Floor"
   Transform {
     Location {
-      X: -340.040588
+      X: -340.04071
       Y: -537.342285
+      Z: -0.0143432617
     }
     Rotation {
       Yaw: 8.53773236e-06
@@ -4577,6 +4841,15 @@ Objects {
       Name: "ma:Shared_BaseMaterial:id"
       AssetReference {
         Id: 8329339828071933523
+      }
+    }
+    Overrides {
+      Name: "ma:Shared_BaseMaterial:color"
+      Color {
+        R: 0.645000041
+        G: 0.645000041
+        B: 0.645000041
+        A: 1
       }
     }
   }

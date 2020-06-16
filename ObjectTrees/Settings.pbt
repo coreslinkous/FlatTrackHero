@@ -1,12 +1,16 @@
 Name: "Settings"
 RootId: 8159775956940110595
 Objects {
-  Id: 7651334214991969125
-  Name: "Team Settings"
+  Id: 11600970987831729705
+  Name: "Spawn Point"
   Transform {
     Location {
+      X: -1490.50012
+      Y: -2700.20483
+      Z: 164.534836
     }
     Rotation {
+      Yaw: -12.0072937
     }
     Scale {
       X: 1
@@ -21,13 +25,8 @@ Objects {
   Visible_v2 {
     Value: "mc:evisibilitysetting:inheritfromparent"
   }
-  Settings {
-    IsDefault: true
-    TeamSettings {
-      TeamMode_v2 {
-        Value: "mc:eteammode:ffa"
-      }
-    }
+  PlayerSpawnPoint {
+    TeamInt: 1
   }
 }
 Objects {

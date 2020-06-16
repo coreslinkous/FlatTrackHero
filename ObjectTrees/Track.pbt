@@ -40,7 +40,7 @@ Objects {
       Yaw: 8.53773236e-06
     }
     Scale {
-      X: 67.4488
+      X: 59.4563484
       Y: 44.0878067
       Z: 0.082799077
     }
@@ -80,7 +80,7 @@ Objects {
   Name: "Invisible Skate Lift"
   Transform {
     Location {
-      Z: 11.5835266
+      Z: 11.5692139
     }
     Rotation {
     }
@@ -110,10 +110,9 @@ Objects {
       Id: 12095835209017042614
     }
     Teams {
+      TeamInt: 2
       IsTeamCollisionEnabled: true
-      IsEnemyCollisionEnabled: true
     }
-    EnableCameraCollision: true
     StaticMesh {
       Physics {
       }
