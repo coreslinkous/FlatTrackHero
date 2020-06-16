@@ -6,7 +6,6 @@ MaxPlayers: 8
 Tags: "Sports"
 Tags: "Relaxing"
 Tags: "Experimental"
-ScreenshotPaths: "C:\\Users\\Mothrah\\Documents\\My Games\\CORE\\Saved\\Maps\\FlatTrackHero\\Screenshots\\Skates.png"
 ScreenshotPaths: "C:\\Users\\Mothrah\\Documents\\My Games\\CORE\\Saved\\Maps\\FlatTrackHero\\Screenshots\\TitleInGame.png"
 ScreenshotPaths: "C:\\Users\\Mothrah\\Documents\\My Games\\CORE\\Saved\\Maps\\FlatTrackHero\\Screenshots\\Peraltalike.png"
-ReleaseNotes: "- New Terrain Sounds\r\n- Environment decoration\r\n- Sponsor Banner\r\n- Penalty Box"
+ReleaseNotes: "- Water Bottle"
